@@ -8,6 +8,7 @@ app_license = "mit"
 # Apps
 # ------------------
 
+
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
@@ -27,7 +28,8 @@ app_license = "mit"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/hr_policy_assistant/css/hr_policy_assistant.css"
 # app_include_js = "/assets/hr_policy_assistant/js/hr_policy_assistant.js"
-
+app_include_js = "/assets/hr_policy_assistant/js/hr_policy_chat.js"
+app_include_css = "/assets/hr_policy_assistant/css/hr_policy_chat.css"
 # include js, css files in header of web template
 # web_include_css = "/assets/hr_policy_assistant/css/hr_policy_assistant.css"
 # web_include_js = "/assets/hr_policy_assistant/js/hr_policy_assistant.js"
